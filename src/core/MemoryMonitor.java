@@ -5,7 +5,7 @@ import java.lang.management.MemoryMXBean;
 import java.lang.management.MemoryUsage;
 
 /***
- * Diese Klasse liest die aktuelle Speicherbelegung aus und stellt die Daten für die weiterverarbeitung in der View zur Verfügung.
+ * Diese Klasse liest die aktuelle Speicherbelegung aus und stellt die Daten für die Weiterverarbeitung in der View zur Verfügung.
  */
 public class MemoryMonitor {
 
