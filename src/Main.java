@@ -1,5 +1,9 @@
+import core.MemoryMonitor;
+
 public class Main {
     static void main(String[] args) {
-        System.out.println("Hello World!");
+        MemoryMonitor monitor = new MemoryMonitor();
+        monitor.printMemoryInfo();
+        //System.out.println();
     }
 }
